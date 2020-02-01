@@ -1,0 +1,14 @@
+body {
+    background-color: lime;
+}
+
+
+
+.kwadrat { 
+    width: 400px;
+    height: 400px;
+    background-image: url("datsun.jpg");
+    background-color:red;
+    background-size: 100% 100%;
+} 
+
